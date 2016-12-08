@@ -5,11 +5,11 @@ You and your team mates have been trapped in the world of Javascript! All of you
 ###Your Mission
 
 Create a object which contains the following properties:
- + *teamCaptainName*
+ + **teamCaptainName**
   - Value set as a string
- + *teamMember1*
+ + **teamMember1**
   - Value set as a string
- + *teamMember2*
+ + **teamMember2**
   - Value set as a string
 
 Within the same object, create the following method:
