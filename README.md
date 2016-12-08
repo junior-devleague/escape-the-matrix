@@ -13,7 +13,7 @@ Create a object which contains the following properties:
   - Value set as a string
 
 Within the same object, create the following method:
- + escape()
+ + **escape()**
   - This function will return a string that says all team members have escaped
 
 _Note: You will be working in JSBIN for this TFR_
